@@ -40,8 +40,8 @@ $apiVersion = '1.1.1';
 // ************************************************************
 $dbContainer['db.options'] = array(
 	'host' => 'localhost',						// CONFIGURE TO YOUR DB HOSTNAME					
-	'username' => 'bakerc_ce',					// CONFIGURE TO YOUR DB USERNAME		
-	'password' => 'baker',						// CONFIGURE TO YOUR DB USERNAME'S PASSWORD
+	'username' => 'root',					// CONFIGURE TO YOUR DB USERNAME		
+	'password' => 'jordan1187;',						// CONFIGURE TO YOUR DB USERNAME'S PASSWORD
 	'dbname' => 'bakerc_cloudce'				// CONFIGURE TO YOUR DB INSTANCE NAME
 );
 //*************************************************************
