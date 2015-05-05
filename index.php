@@ -42,7 +42,7 @@ $dbContainer['db.options'] = array(
 	'host' => 'localhost',						// CONFIGURE TO YOUR DB HOSTNAME					
 	'username' => 'root',					// CONFIGURE TO YOUR DB USERNAME		
 	'password' => 'jordan1187;',						// CONFIGURE TO YOUR DB USERNAME'S PASSWORD
-	'dbname' => 'bakerc_cloudce'				// CONFIGURE TO YOUR DB INSTANCE NAME
+	'dbname' => 'baker_cloud'				// CONFIGURE TO YOUR DB INSTANCE NAME
 );
 //*************************************************************
 
