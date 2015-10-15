@@ -219,6 +219,7 @@ $app->get('/issues/:app_id/:user_id', function ($app_id, $user_id)
 			$IssuesArray[$i]['info'] = $row['INFO'];
 			$IssuesArray[$i]['date'] = $row['DATE'];
 			$IssuesArray[$i]['cover'] = $row['COVER'];
+			$IssuesArray[$i]['version'] = $row['VERSION'];
 			
 			if ($issueDownloadSecurity == "TRUE") {
 				
